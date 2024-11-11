@@ -4,7 +4,7 @@
 
 ### About me
 - 🧠 I am always looking forward to learn new technologies, solve problems, and develope end user solutions
-- 💻 I am currently working on developing applications, primarely on **Ruby on Rails**
+- 💻 I am currently working on developing applications, primarely on __Ruby on Rails__
 - 🙌 I enjoy working in group projects, and building new technologies to make the world a better place 
 
 ## Technologies
