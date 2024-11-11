@@ -7,10 +7,9 @@
     </a>
 </p>
 
-<div align="center">
-    - 🧠 I enjoy learning new technologies, problem solving, and developing end user solutions
-    - 💻 I am currently working on developing applications, primarely on Ruby on Rails
-</div>
+- 🧠 I enjoy learning new technologies, problem solving, and developing end user solutions
+- 💻 I am currently working on developing applications, primarely on Ruby on Rails
+
 
 
     
