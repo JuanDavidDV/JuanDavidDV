@@ -14,4 +14,10 @@
   </a>
 </p>
 
-    
+## Let's get in contact
+Please visit my LinkedIn profile and connect with me. Feel free to send me a messge
+<br/>
+
+<a href="https://www.linkedin.com/in/juan-david-dv/">
+ <img src="https://skillicons.dev/icons?i=linkedin,&perline=1" />
+</a>
