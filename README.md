@@ -1,1 +1,1 @@
-##  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hello+world!,+I’m+Juan+David)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=6000&pause=1000&color=000000&width=435&lines=Hello+world!+I+am+Juan+David)](https://git.io/typing-svg)
