@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=23&duration=7000&pause=1000&color=FFFFFF&background=212121&width=435&lines=%F0%9F%91%8B+Hello+world!+I+am+Juan+David)](https://git.io/typing-svg)
 
-## A passioned Software Developer
+## Passioned Software Developer
 
 ### About me
 - 🧠 I am always looking forward to learn new technologies, solve problems, and develope end user solutions
-- 💻 I am currently working on developing applications, primarely on __Ruby on Rails__
+- 💻 I am currently working on developing applications, primarely on ***Ruby on Rails***
 - 🙌 I enjoy working in group projects, and building new technologies to make the world a better place 
 
 ## Technologies
