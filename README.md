@@ -10,7 +10,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rails,js,react,nodejs,postgres,mysql,sass,express,tailwind,html,css,vscode,postman,heroku,netlify,git&perline=8" />
   </a>
-  [Industry Project Amazon BrainStation Award.pdf](https://github.com/user-attachments/files/17782512/Industry.Project.Amazon.BrainStation.Award.pdf)
+  <br/>
+  ![IndustryProjectAward](https://github.com/user-attachments/assets/f01664a8-ce7e-45a8-99d5-a55ab1d260fc)
 </p>
 
 ## Let's get in contact
