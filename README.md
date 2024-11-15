@@ -14,6 +14,9 @@
   ![IndustryProjectAward](https://github.com/user-attachments/assets/f01664a8-ce7e-45a8-99d5-a55ab1d260fc)
 </p>
 
+## Awards
+![IndustryProjectAward](https://github.com/user-attachments/assets/9b3abdca-735e-4c9b-a68f-22652ad2a0d4)
+
 ## Let's get in contact
 Please visit my LinkedIn profile and connect with me. Feel free to send me a messge
 <br/>
