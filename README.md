@@ -10,11 +10,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rails,js,react,nodejs,postgres,mysql,sass,express,tailwind,html,css,vscode,postman,heroku,netlify,git&perline=8" />
   </a>
-  <br/>
-  ![IndustryProjectAward](https://github.com/user-attachments/assets/f01664a8-ce7e-45a8-99d5-a55ab1d260fc)
 </p>
 
 ## Awards
+<img src="https://github.com/user-attachments/assets/9b3abdca-735e-4c9b-a68f-22652ad2a0d4" width="200" />
 ![IndustryProjectAward](https://github.com/user-attachments/assets/9b3abdca-735e-4c9b-a68f-22652ad2a0d4)
 
 ## Let's get in contact
