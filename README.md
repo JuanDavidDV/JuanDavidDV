@@ -13,7 +13,9 @@
 </p>
 
 ## Awards
-<img src="https://github.com/user-attachments/assets/9b3abdca-735e-4c9b-a68f-22652ad2a0d4" width="500"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b3abdca-735e-4c9b-a68f-22652ad2a0d4" width="600"/>
+</p>
 
 ## Let's get in contact
 Please visit my LinkedIn profile and connect with me. Feel free to send me a messge
