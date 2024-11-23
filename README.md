@@ -4,6 +4,7 @@
 - 🧠 I am always looking forward to learn new technologies, solve problems, and develop end user solutions
 - 💻 I am currently working on developing and building applications, primarily on ***Ruby on Rails***
 - 🙌 I enjoy being part of group projects, where collective problem-solving and shared goals lead to creative solutions
+- 👀 Have a look at my portfolio: https://www.juandazav.ca/
 
 ## Technologies
 <p align="center">
@@ -24,6 +25,3 @@ Please visit my LinkedIn profile and connect with me. Feel free to send me a mes
 <a href="https://www.linkedin.com/in/juan-david-dv/">
  <img src="https://skillicons.dev/icons?i=linkedin,&perline=1" />
 </a>
-
-## My Portfolio
-https://www.juandazav.ca/
