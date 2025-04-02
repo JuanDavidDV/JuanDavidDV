@@ -9,7 +9,7 @@
 ## Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,nodejs,express,three.js,postgres,mysql,html,css,tailwind,sass,heroku,ubuntu,git,vscode,postman&perline=9" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,nodejs,express,threejs,postgres,mysql,html,css,tailwind,sass,heroku,ubuntu,git,vscode,postman&perline=9" />
   </a>
 </p>
 
