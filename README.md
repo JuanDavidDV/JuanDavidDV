@@ -4,7 +4,7 @@
 - 🧠 I am always looking forward to learn new technologies, solve problems, and develop end user solutions
 - 💻 I am currently working on developing and building applications, primarily in ***Ruby on Rails***
 - 🙌 I enjoy being part of group projects, where collective problem-solving and shared goals lead to creative solutions
-- 👀 Have a look at my portfolio: https://www.juandazav.ca/
+- 👀 Have a look at my portfolio: 
 
 ## Technologies
 <p align="center">
